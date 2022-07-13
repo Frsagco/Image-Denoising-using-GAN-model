@@ -1,5 +1,5 @@
 # Image Denoising using GAN model
-This code is developed as a master degree course project (Machine Learning for Vision and Multimedia) at Politecnico di Torino. 
+This code is developed as a master degree course project (Machine Learning for Vision and Multimedia) at Politecnico di Torino. \
 Contributors:
 - *Aglieco Francesco*.
 - *Comparetto Alessandra*.
@@ -9,13 +9,13 @@ Gan model based on:
 - **Generator**: simplified U-Net structure.
 - **Discriminator**: image classification CNN.
 
-Noise used are gaussian, salt and pepper and spackle. 
+Noise used are *gaussian*, *salt and pepper* and *spackle*. 
 
 Losses used on training step: 
 - Discriminator loss: binary cross-entropy.
 - Generator loss: content loss, using a VGG19 pre-trained model as feature extractor. 
 
-Images are cropped in 256x256x3 dimension, cropping window is randomly seated.
+Images are cropped in 256x256x3 dimension, cropping window is randomly seated.\
 **COCO** dataset is used as train/test set.\
 **BSD300** dataset is used as second test set.\ 
 
@@ -26,5 +26,5 @@ Main features:
 
 Details are written on pdf files located in this repo. 
 
-![Alt text](https://drive.google.com/file/d/1BShIObLwgMIz0Rqjo0g62NIY5hbO2idG/view?usp=sharing?raw=true "Title")
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](https://github.com/Frsagco/Image-Denoising-using-GAN-model/blob/main/noise_image.png?raw=true "Title")
+![Alt text](rhttps://github.com/Frsagco/Image-Denoising-using-GAN-model/blob/main/denoised_image.png?raw=true "Title")
