@@ -24,7 +24,7 @@ Main features:
 - Saving and loading on Drive folders of model trained epoch by epoch (in order to deal with low resource allocated by Google Colab).
 - Content Loss enforces performance results. 
 
-Details are written on pdf files located in this repo. 
+Details are written on pdf file located in this repo. 
 
 ![Alt text](https://github.com/Frsagco/Image-Denoising-using-GAN-model/blob/main/noise_image.png?raw=true "Title")
 ![Alt text](https://github.com/Frsagco/Image-Denoising-using-GAN-model/blob/main/denoised_image.png?raw=true "Title")
