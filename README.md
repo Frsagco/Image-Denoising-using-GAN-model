@@ -12,12 +12,12 @@ Gan model based on:
 Noise used are *gaussian*, *salt and pepper* and *spackle*. 
 
 Losses used on training step: 
-- Discriminator loss: binary cross-entropy.
-- Generator loss: content loss, using a VGG19 pre-trained model as feature extractor. 
+- **Discriminator loss**: binary cross-entropy.
+- **Generator loss**: content loss, using a VGG19 pre-trained model as feature extractor. 
 
 Images are cropped in 256x256x3 dimension, cropping window is randomly seated.\
 **COCO** dataset is used as train/test set.\
-**BSD300** dataset is used as second test set.\ 
+**BSD300** dataset is used as second test set.
 
 Main features: 
 - Efficient loading of dataset on Drive folders after previous download. 
