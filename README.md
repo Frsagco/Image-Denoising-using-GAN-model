@@ -27,4 +27,4 @@ Main features:
 Details are written on pdf files located in this repo. 
 
 ![Alt text](https://github.com/Frsagco/Image-Denoising-using-GAN-model/blob/main/noise_image.png?raw=true "Title")
-![Alt text](rhttps://github.com/Frsagco/Image-Denoising-using-GAN-model/blob/main/denoised_image.png?raw=true "Title")
+![Alt text](https://github.com/Frsagco/Image-Denoising-using-GAN-model/blob/main/denoised_image.png?raw=true "Title")
